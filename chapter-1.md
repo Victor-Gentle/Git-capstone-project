@@ -1,2 +1,2 @@
 Welcome to Chapter 1 of the web story
-New line for conflict resolution
+New line for resolution
