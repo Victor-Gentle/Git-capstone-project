@@ -18,8 +18,10 @@ This project demonstrates Git version control concept and collaboration skills a
 ## Local Environment Setup
 
 Below highlights the step to setup local environment
+- install Git and Create a Github account
 - Create remote repository
-- Clone the remote repository to obtain a local repository
+- Clone the remote repository to your local environment
+- Navigate to the project directory
 - Create branches for the different chapter of the web story
 
 ## Navigation
